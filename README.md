@@ -1,4 +1,5 @@
-Data Quality & Validation Framework
+**Data Quality & Validation Framework
+**
 A simple and interactive tool that checks the quality of any CSV dataset.
 
 It helps you quickly find problems like:
@@ -8,13 +9,13 @@ Outliers (unusual values)
 Schema mismatches
 This project is useful for anyone working with data pipelines or preparing data for analysis or machine learning.
 
-🚀 Why I Built This
+🚀 Why I Built This? 
 In real data engineering work, data is often messy.
 Before loading it into a database or using it for analysis, you must check its quality.
 This tool makes that step easy and visual.
 You upload a CSV, click one button, and instantly see where the data has issues.
 
-🧰 Tech Stack
+🧰 Tech Stack: 
 Python
 Pandas (data processing)
 NumPy
@@ -23,7 +24,7 @@ Streamlit (UI)
 Slack SDK (optional alerts)
 dotenv (environment variables)
 
-📂 Project Structure
+📂 Project Structure: 
 data_quality_framework/
 │
 ├── data/
@@ -38,7 +39,7 @@ data_quality_framework/
 │
 └── requirements.txt
 
-▶️ How to Run the App
+▶️ How to Run the App: 
 1. Install all requirements
 pip install -r requirements.txt
 

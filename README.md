@@ -1,5 +1,5 @@
-**Data Quality & Validation Framework
-**
+Data Quality & Validation Framework
+
 A simple and interactive tool that checks the quality of any CSV dataset.
 
 It helps you quickly find problems like:
